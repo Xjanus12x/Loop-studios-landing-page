@@ -9,11 +9,11 @@ export default function CompanyIntroduction() {
         <img src={interactiveMobile} aria-hidden={true} />
       </picture>
 
-      <article className="text-center space-y-4">
-        <header className="josefin-sans text-3xl uppercase">
+      <article className="space-y-4 text-center">
+        <header className="text-5xl uppercase josefin-sans">
           <h2>The leader in interactive vr</h2>
         </header>
-        <p className="alata-regular text-primary-veryDarkGray leading-7">
+        <p className="leading-7 alata-regular text-primary-veryDarkGray">
           Founded in 2011, Loopstudios has been producing world-class
           virtual-reality projects for some of the best companies around the
           globe. Our award-winning creations have transformed businesses through
