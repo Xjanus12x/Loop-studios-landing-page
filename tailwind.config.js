@@ -9,6 +9,9 @@ export default {
           veryDarkGray: "hsl(0, 0%, 41%)",
         },
       },
+      screens: {
+        "md-plus": "800px", // A breakpoint slightly larger than md
+      },
     },
   },
   plugins: [],
